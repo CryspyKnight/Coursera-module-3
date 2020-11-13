@@ -1,0 +1,11 @@
+/*header*/
+.nav-link {
+	text-align: center;
+}
+h2 {
+	font-size: 42px;
+}
+
+.bg-light {
+	background-color: #439CBBFF !important;
+}
